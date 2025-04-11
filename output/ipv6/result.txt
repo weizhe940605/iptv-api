@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-11 06:48:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-11 18:47:14,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -738,6 +738,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 上海纪实,https://tv.iill.top/migu/shjs
 上海纪实,http://z.b.bkpcp.top/m.php?id=shjs
 上海纪实,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226174/index.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IAS,httpSessionId=OTT19019320240419154124000281
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb
@@ -974,6 +975,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 金鹰纪实,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 金鹰纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8?
+金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 湖南金鹰纪实,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000482/1.m3u8
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
@@ -1367,8 +1369,8 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 安多卫视,http://[2409:8087:74d2:21::6]:80/270000001128/9900000064/index.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-1.m3u8#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-2.m3u8#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-3.m3u8#https://stream1.freetv.fun/zhu-xia--xi-zhu-xin-wen-zong-he-1.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-1.m3u8#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-2.m3u8#https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-3.m3u8#https://stream1.freetv.fun/zhu-xia--xi-zhu-xin-wen-zong-he-1.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
