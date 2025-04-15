@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-15 06:48:43,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-15 18:50:25,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -541,12 +541,14 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&yang-1989
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS\\n
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
@@ -1489,6 +1491,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 凤凰香港,https://xn-----x23ag1280bl6cizfi82eiczba0224c.tv12.xyz/凤凰香港
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://live_bin.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -1667,6 +1670,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/inde
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 纬来体育,https://video.mytvsuper.xyz/live/d26a8202500e21cd76b79ba9c711767965b26c80090397222c5157a6d7d74516.m3u8?token=825716213175186
 纬来体育,http://live_bin.m16tv.cfd/stream/test/null/AKTV.m3u8
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS,httpSessionId=OTT19019320240419154124000281
