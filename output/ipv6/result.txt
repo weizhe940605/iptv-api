@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-06 07:12:08,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-06 19:22:28,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -597,9 +597,11 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
 广州综合,https://live.iill.top/gztv/zhonghe$订阅源
 广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1743040305&key=9b8c0f43fde1e08e18b3c6bf6363710c$订阅源
+广州综合,https://tv.iill.top/gztv/zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487$订阅源
 广州影视,https://live.iill.top/gztv/yingshi$订阅源
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1745861040&key=06bcdbdf17e6a1c2aa3933641f632b60
+广州影视,https://tv.iill.top/gztv/yingshi
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1744010833&key=45f4d4d27da159dc7ae9d31412d3ea48$订阅源
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8$订阅源
@@ -694,7 +696,7 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed$订阅源
 象山电视台新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed$订阅源
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed$订阅源
-衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed#https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv#https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?#https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8$订阅源
