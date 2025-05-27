@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-27 19:07:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-28 07:04:23,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -589,6 +589,7 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 广东新闻,http://congtou.top:9292/rtp/239.77.0.173:5146
 广东新闻,http://www.1328099.xyz:9001/udp/239.77.0.173:5146
 广东新闻,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.173:5146
+广东新闻,http://mi.gzbody.com:85/udp/239.77.0.173:5146
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS\\n$订阅源
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD$订阅源
@@ -603,6 +604,7 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 广东民生,http://congtou.top:9292/rtp/239.77.0.225:5146
 广东民生,http://www.1328099.xyz:9001/udp/239.77.0.225:5146
 广东民生,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.225:5146
+广东民生,http://mi.gzbody.com:85/udp/239.77.0.225:5146
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108$订阅源
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws$订阅源
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws$订阅源
@@ -620,6 +622,8 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 广州综合,http://congtou.top:9292/rtp/239.253.43.71:5146
 广州综合,http://www.1328099.xyz:9001/udp/239.253.43.66:5146
 广州综合,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.71:5146
+广州综合,http://mi.gzbody.com:85/udp/239.253.43.71:5146
+广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487$订阅源
 广州影视,https://live.iill.top/gztv/yingshi$订阅源
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1746393735&amp;key=1c3dbffdc7f539bde2e1cf2100bb4266
@@ -627,6 +631,7 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 广州影视,http://congtou.top:9292/rtp/239.253.43.73:5146
 广州影视,http://www.1328099.xyz:9001/udp/239.253.43.73:5146
 广州影视,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.73:5146
+广州影视,http://mi.gzbody.com:85/udp/239.253.43.68:5146
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1744010833&key=45f4d4d27da159dc7ae9d31412d3ea48$订阅源
 广州竞赛,http://www.1328099.xyz:9001/udp/239.253.43.70:5146
@@ -635,9 +640,11 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 江门综合,http://congtou.top:9292/rtp/239.77.0.201:5146
 江门综合,http://www.1328099.xyz:9001/udp/239.77.0.201:5146
 江门综合,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.201:5146
+江门综合,http://mi.gzbody.com:85/udp/239.77.0.195:5146
 江门侨乡生活,http://congtou.top:9292/rtp/239.77.0.202:5146
 江门侨乡生活,http://www.1328099.xyz:9001/udp/239.77.0.202:5146
 江门侨乡生活,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.202:5146
+江门侨乡生活,http://mi.gzbody.com:85/udp/239.77.0.196:5146
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh$订阅源
 佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8$订阅源
 佛山综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p9.php?id=fszh
@@ -645,6 +652,7 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 佛山综合,http://congtou.top:9292/rtp/239.253.43.57:5146
 佛山综合,http://www.1328099.xyz:9001/udp/239.253.43.52:5146
 佛山综合,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.57:5146
+佛山综合,http://mi.gzbody.com:85/udp/239.253.43.57:5146
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$订阅源
 深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8$订阅源
@@ -659,18 +667,23 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 汕头综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
 汕头综合,http://www.1328099.xyz:9001/udp/239.253.43.45:5146
 汕头综合,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.45:5146
+汕头综合,http://mi.gzbody.com:85/udp/239.253.43.30:5146
 汕头经济,http://congtou.top:9292/rtp/239.253.43.46:5146
 汕头经济,http://www.1328099.xyz:9001/udp/239.253.43.43:5146
 汕头经济,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.46:5146
+汕头经济,http://mi.gzbody.com:85/udp/239.253.43.43:5146
 汕头文旅,http://congtou.top:9292/rtp/239.253.43.47:5146
 汕头文旅,http://www.1328099.xyz:9001/udp/239.253.43.47:5146
 汕头文旅,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.253.43.47:5146
+汕头文旅,http://mi.gzbody.com:85/udp/239.253.43.44:5146
 茂名综合,http://congtou.top:9292/rtp/239.77.0.206:5146
 茂名综合,http://www.1328099.xyz:9001/udp/239.77.0.206:5146
 茂名综合,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.206:5146
+茂名综合,http://mi.gzbody.com:85/udp/239.77.0.206:5146
 茂名公共,http://congtou.top:9292/rtp/239.77.0.207:5146
 茂名公共,http://www.1328099.xyz:9001/udp/239.77.0.207:5146
 茂名公共,http://[2603:c022:8005:81ff:6745:ae39:400f:259a]:4022/udp/239.77.0.207:5146
+茂名公共,http://mi.gzbody.com:85/udp/239.77.0.205:5146
 
 ☘️浙江频道,#genre#
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
@@ -1790,6 +1803,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://z.b.bkpcp.top/m.php?id=tvbwlty
+纬来体育,http://k.061899.xyz/k.php?id=jbty
 纬来育乐,https://video.mytvsuper.xyz/live/f35dbfefc053b1c20f560bae3ff3899346e5a5a9b4f325145df9dfac06c5dd9f.m3u8?token=825716213175186$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
@@ -1989,6 +2003,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/inde
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://z.b.bkpcp.top/m.php?id=tvbwlty
+纬来体育,http://k.061899.xyz/k.php?id=jbty
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS,httpSessionId=OTT19019320240419154124000281$订阅源
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540$订阅源
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&amp;Contentid=5000000010000017540&amp;livemode=1&amp;stbId=3$订阅源
@@ -2157,6 +2172,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 蜡笔小新,https://live.metshop.top/huya/11352970$订阅源
 漫画解说,http://luobo.bkpcp.top/yy/1382735568$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
+漫画解说,https://judy.livednow.dpdns.org/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
@@ -2200,6 +2216,7 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
 笑傲江湖,http://www.52sw.top:678/play/huya.php?id=26355790
 笑傲江湖,https://www.goodiptv.club/yy/1354930909
+笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909
 天龙八部,http://luobo.bkpcp.top/yy/1382736855$订阅源
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
@@ -2208,11 +2225,13 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8$订阅源
 天龙八部,http://www.52sw.top:678/play/huya.php?id=23903123
 天龙八部,https://www.goodiptv.club/yy/1351814644
+天龙八部,https://judy.livednow.dpdns.org/yy/1351814644
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080$订阅源
 鹿鼎记,http://live.iill.top/huya.php?id=23865080$订阅源
 鹿鼎记,https://live.metshop.top/huya/23865080$订阅源
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650$订阅源
 鹿鼎记,http://www.52sw.top:678/play/huya.php?id=23865080
+鹿鼎记,https://judy.livednow.dpdns.org/yy/382704650
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 三国演义,https://live.iill.top/huya/11602081$订阅源
@@ -2220,6 +2239,7 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 三国演义,https://live.metshop.top/huya/11602081$订阅源
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://www.goodiptv.club/yy/32788000
+三国演义,https://judy.livednow.dpdns.org/yy/1354936241
 水浒传,http://www.clmy.cc:35455/yy/1353873252$订阅源
 水浒传,https://live.metshop.top/huya/11342384$订阅源
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667$订阅源
@@ -2229,8 +2249,10 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
 新白娘子传奇,http://liushizupu.site:35455/yy/1354490667
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
+新白娘子传奇,https://judy.livednow.dpdns.org/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 济公游记,https://www.goodiptv.club/yy/1355265814
+济公游记,https://judy.livednow.dpdns.org/yy/1355265814
 封神榜,http://luobo.bkpcp.top/yy/1353426319$订阅源
 封神榜,http://www.clmy.cc:35455/yy/1353426319$订阅源
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=23749096$订阅源
@@ -2238,12 +2260,15 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 封神榜,https://live.metshop.top/yy/1356043643$订阅源
 封神榜,http://www.52sw.top:678/play/huya.php?id=23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
+封神榜,https://judy.livednow.dpdns.org/yy/1356043643
 上海滩,http://luobo.bkpcp.top/yy/1382745184$订阅源
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://live.metshop.top/yy/1382745184
 上海滩,https://www.goodiptv.club/yy/1382745184
+上海滩,https://judy.livednow.dpdns.org/yy/1382745184
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
 射雕英雄传,http://live.iill.top/huya.php?id=23824164$订阅源
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8$订阅源
 射雕英雄传,http://www.52sw.top:678/play/huya.php?id=23824164
 射雕英雄传,https://live.metshop.top/yy/40959929
+射雕英雄传,https://judy.livednow.dpdns.org/yy/1354210357
