@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-28 19:09:20,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-29 07:09:17,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -726,6 +726,7 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 杭州青少,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
 杭州少体,http://goo.bkpcp.top/mg/hzse$订阅源
 杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
+杭州导视,http://[2409:8087:2801:22:100::41]/wh7f454c46tw1080302122_-1676557960/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
 宁波TV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
 宁波TV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
 宁波TV4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
@@ -741,6 +742,8 @@ CETV4,https://migu1.188766.xyz/?migutoken=942fb655bebf1c2906b69fba5a3eaa6d&id=CE
 浙江国际,https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450$订阅源
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
+丽水新闻,http://[2409:8087:2801:20:100::40]/wh7f454c46tw1217818877_228620281/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8
+湖州公共,http://[2409:8087:2801:22:100::37]/wh7f454c46tw1308525120_718771428/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8$订阅源
 浙江民生休闲,http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef$订阅源
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
@@ -1002,6 +1005,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8?icpid=88888888&servicetype=1
 都市剧场,http://miqlin.cyou:8888/udp/233.18.204.48:5140
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+都市剧场,http://[2409:8087:2801:22:100::6d]/wh7f454c46tw225448578_554191943/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8
 
 ☘️重庆频道,#genre#
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8$订阅源
@@ -1822,6 +1826,7 @@ Viutv,http://live_bin.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
 三立新闻,https://tv.iill.top/4gtv/229$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://video.mytvsuper.xyz/live/273281f654efdd1068d91661d79c251628f841e4df28214128ad0e19ea4b8cef.m3u8?token=825716213175186$订阅源
+三立新闻,https://live.iill.top/youtube/MV9mI0GChwo
 东森综合,https://video.mytvsuper.xyz/live/0824f7c913dc861cf747a634205970feee47a2a59e9a15dffaecfc8fc6bd9909.m3u8?token=825716213175186$订阅源
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
@@ -2161,6 +2166,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
+海绵宝宝,https://live.iill.top/huya/11352919
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
@@ -2173,6 +2179,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 漫画解说,http://luobo.bkpcp.top/yy/1382735568$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 漫画解说,https://judy.livednow.dpdns.org/yy/1382735568
+漫画解说,http://liushizupu.site:35455/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
@@ -2226,6 +2233,7 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 天龙八部,http://www.52sw.top:678/play/huya.php?id=23903123
 天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644
+天龙八部,https://live.iill.top/huya/11602041
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080$订阅源
 鹿鼎记,http://live.iill.top/huya.php?id=23865080$订阅源
 鹿鼎记,https://live.metshop.top/huya/23865080$订阅源
