@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-29 19:10:27,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-30 07:06:29,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -2269,6 +2269,7 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 封神榜,http://www.52sw.top:678/play/huya.php?id=23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,https://judy.livednow.dpdns.org/yy/1356043643
+封神榜,https://live.iill.top/huya/23749096
 上海滩,http://luobo.bkpcp.top/yy/1382745184$订阅源
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://live.metshop.top/yy/1382745184
