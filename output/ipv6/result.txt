@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-16 19:14:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-07-17 07:08:20,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -1076,6 +1076,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 南京十八,https://video.mytvsuper.xyz/live/86953dbbc9bba15bfa5952ad654c48fdb51bdbf34e99739ecebf21e36297db12.m3u8?token=825716213175186$订阅源
 南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8$订阅源
 南京十八,http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+南京十八,https://migu.188766.xyz/?migutoken=e2fd551f621870190e3a951756d9f436&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
 南京娱乐,https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8$订阅源
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8$订阅源
 南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1756933853_327829486/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -1090,6 +1091,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 南京教科,http://z.b.bkpcp.top/m.php?id=njkj
 南京教科,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 南京教科,http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
+南京教科,https://migu.188766.xyz/?migutoken=23070e891abbf6710a7a5e07a3cd74d4&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
 南京新闻综合,http://z.b.bkpcp.top/m.php?id=njxwzh$订阅源
 南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8$订阅源
 南京新闻综合,https://www.freetv.top/migu/838109047.m3u8?migutoken=62f00b3ff882dc74776fca5d7ab67cc815a742199ebc7734f0fe982d0d5d00f273942a270c3e9ea9c413af296282a1871925369a32a7d92bcc978bd8f23d7ea50d798eb6ddb76202f730b7986a$订阅源
@@ -1099,6 +1101,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8$订阅源
 南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+南京新闻综合,https://migu.188766.xyz/?migutoken=7b3aa555a93da454ef558325abba96d5&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
 南京生活,https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8$订阅源
 南京生活,http://live.nbs.cn/channels/njtv/shpd/500k.m3u8?zjiangsd
 南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8$订阅源
@@ -1153,6 +1156,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 淮安新闻综合,https://www.freetv.top/migu/639731826.m3u8?migutoken=00b1d4f32234c7e79068a30140d3ddbaa6e95ac46df122e08a41351192792c134498a7bd16031b93fc32845a898b9eab1d9e3950317921601533d39ee5020d3ec4edd85973d751808aebba094b$订阅源
 淮安新闻综合,https://video.mytvsuper.xyz/live/d46b6903d36d44f87ed3099c53c8a414f579712abd54846443c73bd5e37d0135.m3u8?token=825716213175186$订阅源
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd$订阅源
+淮安新闻综合,https://migu.188766.xyz/?migutoken=5b5b77c08759a01ce0ed8a3d59f55f0f&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
 淮阴综合,http://tvbox6.com/tv/jstv.php?id=hyzh$订阅源
 淮阴综合,http://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
@@ -1370,7 +1374,13 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud$订阅源
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?zfud$订阅源
 龙岩新闻综合,https://fanmingming.com/fm?id=962$订阅源
+福建文体,https://migu.188766.xyz/?migutoken=cc7bedb7f042de76b34971bb27eec2f0&id=fjwt&type=sz
+福建新闻,https://migu.188766.xyz/?migutoken=c37af29e775725e1422115c270066c62&id=fjxw&type=sz
+福建电视剧,https://migu.188766.xyz/?migutoken=33ddb8068c6df4fb4a1a0fee80e8cc58&id=fjdsj&type=sz
+福建经济,https://migu.188766.xyz/?migutoken=f4974222d1a55d7649f9f80ef63f1296&id=fjjj&type=sz
+福建综合,https://migu.188766.xyz/?migutoken=5528ee11ad2695ea0cb515bcdbbb4a1d&id=fjzh&type=sz
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8
+福建少儿,https://migu.188766.xyz/?migutoken=5e5e365c625e2c43bb1588f666d48a5e&id=fjse&type=sz
 
 ☘️海南频道,#genre#
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/index.m3u8$订阅源
@@ -1475,9 +1485,11 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南都市,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/10000100000000060000000008219389_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1745796321&amp;key=fe18400b0aeee777efcd1e3282435d28
+河南都市,https://migu.188766.xyz/?migutoken=3d31b3f361ecf3f2f74da13be967330c&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 河南民生,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/10000100000000060000000008219388_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1745796321&amp;key=5f28534538b48cf3d6dc58909f8897f3
+河南民生,https://migu.188766.xyz/?migutoken=c34efa9c2875f5da656aee5ac7ee1ed2&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
 沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8$订阅源
 永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8$订阅源
 永城综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
