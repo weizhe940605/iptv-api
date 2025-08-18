@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-18 06:34:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-08-18 18:38:28,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -1183,6 +1183,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 江苏教育,http://goo.bkpcp.top/mg/jsjy$订阅源
 江苏教育,https://video.mytvsuper.xyz/live/4c227a6c10dd779a3be6ad442a28db702b786a2d05f5d3513a8c713be5df397a.m3u8?token=825716213175186$订阅源
 江苏教育,http://ygbh.live/js.php?id=jsjy
+江苏教育,https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 沛县新闻综合,http://tvbox6.com/tv/jstv.php?id=pxxwzh$订阅源
 沛县新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2694495294_-336953709/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8?icpid=3&RTS=1663018326&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 沛县新闻综合,http://peixian-tv-replay.cm.jstv.com/peixian-tv/pxzh.m3u8
